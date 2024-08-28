@@ -36,6 +36,6 @@ You are asked to finish the following (i.e., the three Todo's in the IntArray.cp
 
 ## Submission
 
-Submit your program at the following link by Jan 30, 2024, midnight (11:59pm)
+Submit your program at the following link by Sep 18, 2024, midnight (11:59pm)
 
 [lab1 submission site](https://storm.cis.fordham.edu:8443/web/course/90)
